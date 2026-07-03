@@ -1,4 +1,4 @@
-# Local Persian AI Agent CLI (`ollama-local-agent-cli`) 
+# Local Persian AI Agent (`ollama-local-agent`) 
 A lightweight, production-ready Python command-line utility showcasing how to orchestrate local open-source Large Language Models (LLMs) via **Ollama**.
 
 This project demonstrates how to ingest local model registries into structured data frames, implement token-by-token response streaming, and inject complex, domain-specific Persian system guidelines for automated enterprise helpdesk environments (configured here as an assistant for the Dezful Department of Education).
