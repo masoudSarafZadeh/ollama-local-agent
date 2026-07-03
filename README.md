@@ -15,7 +15,7 @@ This project demonstrates how to ingest local model registries into structured d
 
 ## Repository Structure
 ```plaintext
-ollama-local-agent-cli/
+ollama-local-agent/
 ├── LICENSE          # Project licensing
 ├── README.md        # Documentation and setup instructions
 ├── main.py          # Core application script (Registry check & chat engine)
@@ -37,8 +37,8 @@ ollama pull partai/dorna-llama3:8b-instruct-q4_0
 Clone this repository, navigate to the folder, and install the required libraries using the `requirements.txt` file:
 
 ```bash
-git clone https://github.com/your-username/ollama-local-agent-cli.git
-cd ollama-local-agent-cli
+git clone https://github.com/your-username/ollama-local-agent.git
+cd ollama-local-agent
 pip install -r requirements.txt
 ```
 ---
